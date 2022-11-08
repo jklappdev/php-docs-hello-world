@@ -1,5 +1,7 @@
 <?php
 
-echo "Hello World!";
+echo "Hello World!\n";
 echo "<br>";
 echo "You are now on the MCFDev WebServer";
+
+?>
